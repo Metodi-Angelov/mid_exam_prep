@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b56366dc-e5cd-4cfe-8b63-3d089de664da" name="Default Changelist" comment="" />
+    <list default="true" id="b56366dc-e5cd-4cfe-8b63-3d089de664da" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/snake_description.py" beforeDir="false" afterPath="$PROJECT_DIR$/snake_description.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1j95PHNoNueaJnbeUTENkedqkZC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="01_bombs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -90,5 +98,9 @@
       <screen x="0" y="30" width="1440" height="870" />
     </state>
     <state width="458" height="742" key="GridCell.Tab.1.right/0.30.1440.870@0.30.1440.870" timestamp="1603207585655" />
+    <state x="529" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1603208439767">
+      <screen x="0" y="30" width="1440" height="870" />
+    </state>
+    <state x="529" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.30.1440.870@0.30.1440.870" timestamp="1603208439767" />
   </component>
 </project>

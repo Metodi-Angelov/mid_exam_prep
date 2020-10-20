@@ -1,1 +1,1 @@
-snake = []
+some_snake = []

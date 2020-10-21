@@ -27,7 +27,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.bombs">
     <configuration name="01_bombs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mid_exam_prep" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -49,8 +49,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="bombs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mid_exam_prep" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_prep" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_prep/bombs.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bombs" />
         <item itemvalue="Python.01_bombs" />
       </list>
     </recent_temporary>
@@ -128,22 +150,22 @@
       <screen x="0" y="30" width="1440" height="870" />
     </state>
     <state x="374" y="59" key="CommitChangelistDialog2/0.30.1440.870@0.30.1440.870" timestamp="1603208796237" />
-    <state width="458" height="742" key="GridCell.Tab.0.bottom" timestamp="1603207585658">
+    <state width="386" height="742" key="GridCell.Tab.0.bottom" timestamp="1603277395072">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="458" height="742" key="GridCell.Tab.0.bottom/0.30.1440.870@0.30.1440.870" timestamp="1603207585658" />
-    <state width="458" height="742" key="GridCell.Tab.0.center" timestamp="1603207585658">
+    <state width="386" height="742" key="GridCell.Tab.0.bottom/0.30.1440.870@0.30.1440.870" timestamp="1603277395072" />
+    <state width="386" height="742" key="GridCell.Tab.0.center" timestamp="1603277395072">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="458" height="742" key="GridCell.Tab.0.center/0.30.1440.870@0.30.1440.870" timestamp="1603207585658" />
-    <state width="458" height="742" key="GridCell.Tab.0.left" timestamp="1603207585658">
+    <state width="386" height="742" key="GridCell.Tab.0.center/0.30.1440.870@0.30.1440.870" timestamp="1603277395072" />
+    <state width="386" height="742" key="GridCell.Tab.0.left" timestamp="1603277395072">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="458" height="742" key="GridCell.Tab.0.left/0.30.1440.870@0.30.1440.870" timestamp="1603207585658" />
-    <state width="458" height="742" key="GridCell.Tab.0.right" timestamp="1603207585658">
+    <state width="386" height="742" key="GridCell.Tab.0.left/0.30.1440.870@0.30.1440.870" timestamp="1603277395072" />
+    <state width="386" height="742" key="GridCell.Tab.0.right" timestamp="1603277395072">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="458" height="742" key="GridCell.Tab.0.right/0.30.1440.870@0.30.1440.870" timestamp="1603207585658" />
+    <state width="386" height="742" key="GridCell.Tab.0.right/0.30.1440.870@0.30.1440.870" timestamp="1603277395072" />
     <state width="458" height="742" key="GridCell.Tab.1.bottom" timestamp="1603207585655">
       <screen x="0" y="30" width="1440" height="870" />
     </state>

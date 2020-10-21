@@ -35,8 +35,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Python.list_manipulator">
-    <configuration name="bombs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.expression_evaluator">
+    <configuration name="expression_evaluator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mid_exam_prep" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -44,11 +44,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_prep" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/second_prep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_prep/bombs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/second_prep/expression_evaluator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="snake_description" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mid_exam_prep" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/first_prep/snake" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/second_prep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/first_prep/snake/snake_description.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/second_prep/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.expression_evaluator" />
+        <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.list_manipulator" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.snake_description (1)" />
-        <item itemvalue="Python.snake_description" />
-        <item itemvalue="Python.bombs" />
       </list>
     </recent_temporary>
   </component>
@@ -234,38 +234,38 @@
       <screen x="0" y="30" width="1440" height="870" />
     </state>
     <state x="374" y="59" key="CommitChangelistDialog2/0.30.1440.870@0.30.1440.870" timestamp="1603277416962" />
-    <state width="721" height="742" key="GridCell.Tab.0.bottom" timestamp="1603295202106">
+    <state width="721" height="742" key="GridCell.Tab.0.bottom" timestamp="1603300538323">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="721" height="742" key="GridCell.Tab.0.bottom/0.30.1440.870@0.30.1440.870" timestamp="1603295202106" />
-    <state width="721" height="742" key="GridCell.Tab.0.center" timestamp="1603295202106">
+    <state width="721" height="742" key="GridCell.Tab.0.bottom/0.30.1440.870@0.30.1440.870" timestamp="1603300538323" />
+    <state width="721" height="742" key="GridCell.Tab.0.center" timestamp="1603300538323">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="721" height="742" key="GridCell.Tab.0.center/0.30.1440.870@0.30.1440.870" timestamp="1603295202106" />
-    <state width="721" height="742" key="GridCell.Tab.0.left" timestamp="1603295202105">
+    <state width="721" height="742" key="GridCell.Tab.0.center/0.30.1440.870@0.30.1440.870" timestamp="1603300538323" />
+    <state width="721" height="742" key="GridCell.Tab.0.left" timestamp="1603300538323">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="721" height="742" key="GridCell.Tab.0.left/0.30.1440.870@0.30.1440.870" timestamp="1603295202105" />
-    <state width="721" height="742" key="GridCell.Tab.0.right" timestamp="1603295202106">
+    <state width="721" height="742" key="GridCell.Tab.0.left/0.30.1440.870@0.30.1440.870" timestamp="1603300538323" />
+    <state width="721" height="742" key="GridCell.Tab.0.right" timestamp="1603300538323">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="721" height="742" key="GridCell.Tab.0.right/0.30.1440.870@0.30.1440.870" timestamp="1603295202106" />
-    <state width="721" height="742" key="GridCell.Tab.1.bottom" timestamp="1603295202106">
+    <state width="721" height="742" key="GridCell.Tab.0.right/0.30.1440.870@0.30.1440.870" timestamp="1603300538323" />
+    <state width="721" height="742" key="GridCell.Tab.1.bottom" timestamp="1603300538323">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="721" height="742" key="GridCell.Tab.1.bottom/0.30.1440.870@0.30.1440.870" timestamp="1603295202106" />
-    <state width="721" height="742" key="GridCell.Tab.1.center" timestamp="1603295202106">
+    <state width="721" height="742" key="GridCell.Tab.1.bottom/0.30.1440.870@0.30.1440.870" timestamp="1603300538323" />
+    <state width="721" height="742" key="GridCell.Tab.1.center" timestamp="1603300538323">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="721" height="742" key="GridCell.Tab.1.center/0.30.1440.870@0.30.1440.870" timestamp="1603295202106" />
-    <state width="721" height="742" key="GridCell.Tab.1.left" timestamp="1603295202106">
+    <state width="721" height="742" key="GridCell.Tab.1.center/0.30.1440.870@0.30.1440.870" timestamp="1603300538323" />
+    <state width="721" height="742" key="GridCell.Tab.1.left" timestamp="1603300538323">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="721" height="742" key="GridCell.Tab.1.left/0.30.1440.870@0.30.1440.870" timestamp="1603295202106" />
-    <state width="721" height="742" key="GridCell.Tab.1.right" timestamp="1603295202106">
+    <state width="721" height="742" key="GridCell.Tab.1.left/0.30.1440.870@0.30.1440.870" timestamp="1603300538323" />
+    <state width="721" height="742" key="GridCell.Tab.1.right" timestamp="1603300538323">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state width="721" height="742" key="GridCell.Tab.1.right/0.30.1440.870@0.30.1440.870" timestamp="1603295202106" />
+    <state width="721" height="742" key="GridCell.Tab.1.right/0.30.1440.870@0.30.1440.870" timestamp="1603300538323" />
     <state x="312" y="186" key="Vcs.Push.Dialog.v2" timestamp="1603208590301">
       <screen x="0" y="30" width="1440" height="870" />
     </state>

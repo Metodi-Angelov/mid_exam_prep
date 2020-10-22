@@ -61,8 +61,6 @@ for _ in range(num_of_commands):
     cmd = command[0]
     direction = command[1]
     add = int(command[2])
-
-    pos = "move" if cmd == "move" else "shoot"
     dic = movements[direction]
     move(dic[0] * add, dic[1] * add, cmd)
 

@@ -64,7 +64,7 @@ for _ in range(num_of_commands):
 
     pos = "move" if cmd == "move" else "shoot"
     dic = movements[direction]
-    move(dic[0] * add, dic[1] * add, pos)
+    move(dic[0] * add, dic[1] * add, cmd)
 
 if len(targets_position) <= 0:
     print(f"Mission accomplished! All {total_targets} targets destroyed.")

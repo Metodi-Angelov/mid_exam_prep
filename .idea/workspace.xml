@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b56366dc-e5cd-4cfe-8b63-3d089de664da" name="Default Changelist" comment="">
+    <list default="true" id="b56366dc-e5cd-4cfe-8b63-3d089de664da" name="Default Changelist" comment="new task">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/third_prep/dating_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/third_prep/dating_app.py" afterDir="false" />
     </list>
@@ -205,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603453245006</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="new task">
+      <created>1603458737442</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1603458737442</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -239,10 +246,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="new task" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="374" y="59" key="CommitChangelistDialog2" timestamp="1603458736657">
+    <state x="374" y="59" key="CommitChangelistDialog2" timestamp="1603458918957">
       <screen x="0" y="30" width="1440" height="870" />
     </state>
-    <state x="374" y="59" key="CommitChangelistDialog2/0.30.1440.870@0.30.1440.870" timestamp="1603458736657" />
+    <state x="374" y="59" key="CommitChangelistDialog2/0.30.1440.870@0.30.1440.870" timestamp="1603458918957" />
     <state x="92" y="122" width="1256" height="686" key="DiffContextDialog" timestamp="1603372319612">
       <screen x="0" y="30" width="1440" height="870" />
     </state>

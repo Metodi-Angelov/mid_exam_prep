@@ -1,5 +1,9 @@
 from collections import deque
 
+# Input example:
+# 3 0 3 6 9 0 12
+# 12 9 6 1 2 3 15 13 4
+
 males = [int(n) for n in input().split() if int(n) > 0]
 females = deque([int(n) for n in input().split() if int(n) > 0])
 
